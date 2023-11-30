@@ -1,4 +1,4 @@
-package leon.ucsal.trabalhobanco.domain;
+package leon.ucsal.trabalhobanco.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

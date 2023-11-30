@@ -1,6 +1,6 @@
 package leon.ucsal.trabalhobanco.repository;
 
-import leon.ucsal.trabalhobanco.domain.TipoUsuario;
+import leon.ucsal.trabalhobanco.model.TipoUsuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

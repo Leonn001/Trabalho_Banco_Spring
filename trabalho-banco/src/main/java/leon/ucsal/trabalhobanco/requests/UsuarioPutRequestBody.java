@@ -1,6 +1,6 @@
 package leon.ucsal.trabalhobanco.requests;
 
-import leon.ucsal.trabalhobanco.domain.TipoUsuario;
+import leon.ucsal.trabalhobanco.model.TipoUsuario;
 import lombok.Builder;
 import lombok.Data;
 

@@ -1,7 +1,7 @@
 package leon.ucsal.trabalhobanco.requests;
 
-import leon.ucsal.trabalhobanco.domain.TipoServico;
-import leon.ucsal.trabalhobanco.domain.Usuario;
+import leon.ucsal.trabalhobanco.model.TipoServico;
+import leon.ucsal.trabalhobanco.model.Usuario;
 import lombok.Builder;
 import lombok.Data;
 

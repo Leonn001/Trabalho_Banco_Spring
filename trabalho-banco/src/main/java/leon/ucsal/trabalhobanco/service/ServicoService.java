@@ -1,8 +1,8 @@
 package leon.ucsal.trabalhobanco.service;
 
-import leon.ucsal.trabalhobanco.domain.Servico;
-import leon.ucsal.trabalhobanco.domain.TipoServico;
-import leon.ucsal.trabalhobanco.domain.Usuario;
+import leon.ucsal.trabalhobanco.model.Servico;
+import leon.ucsal.trabalhobanco.model.TipoServico;
+import leon.ucsal.trabalhobanco.model.Usuario;
 import leon.ucsal.trabalhobanco.repository.ServicoRepository;
 import leon.ucsal.trabalhobanco.repository.TipoServicoRepository;
 import leon.ucsal.trabalhobanco.repository.UsuarioRepository;

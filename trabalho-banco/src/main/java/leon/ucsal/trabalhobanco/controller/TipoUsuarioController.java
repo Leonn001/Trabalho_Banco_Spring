@@ -1,6 +1,6 @@
 package leon.ucsal.trabalhobanco.controller;
 
-import leon.ucsal.trabalhobanco.domain.TipoUsuario;
+import leon.ucsal.trabalhobanco.model.TipoUsuario;
 import leon.ucsal.trabalhobanco.repository.TipoUsuarioRepository;
 import leon.ucsal.trabalhobanco.requests.TipoUsuarioPostRequestBody;
 import leon.ucsal.trabalhobanco.requests.TipoUsuarioPutRequestBody;

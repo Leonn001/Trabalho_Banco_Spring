@@ -1,6 +1,6 @@
 package leon.ucsal.trabalhobanco.service;
 
-import leon.ucsal.trabalhobanco.domain.TipoServico;
+import leon.ucsal.trabalhobanco.model.TipoServico;
 import leon.ucsal.trabalhobanco.repository.TipoServicoRepository;
 import leon.ucsal.trabalhobanco.requests.TipoServicoPostRequestBody;
 import leon.ucsal.trabalhobanco.requests.TipoServicoPutRequestBody;

@@ -1,6 +1,6 @@
 package leon.ucsal.trabalhobanco.repository;
 
-import leon.ucsal.trabalhobanco.domain.Servico;
+import leon.ucsal.trabalhobanco.model.Servico;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

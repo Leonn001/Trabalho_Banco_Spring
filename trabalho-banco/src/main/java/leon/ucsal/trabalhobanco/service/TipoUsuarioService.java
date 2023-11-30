@@ -1,9 +1,7 @@
 package leon.ucsal.trabalhobanco.service;
 
-import leon.ucsal.trabalhobanco.domain.TipoServico;
-import leon.ucsal.trabalhobanco.domain.TipoUsuario;
+import leon.ucsal.trabalhobanco.model.TipoUsuario;
 import leon.ucsal.trabalhobanco.repository.TipoUsuarioRepository;
-import leon.ucsal.trabalhobanco.requests.TipoServicoPostRequestBody;
 import leon.ucsal.trabalhobanco.requests.TipoUsuarioPostRequestBody;
 import leon.ucsal.trabalhobanco.requests.TipoUsuarioPutRequestBody;
 import lombok.AllArgsConstructor;
